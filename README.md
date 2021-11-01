@@ -10,7 +10,7 @@
 
 <div align="center">
     <img src="imgs/weak-policy-learning.png" alt><br>
-    Weak supervision signals are everywhere! We provide a unified formulation of the weakly supervised policy learning problems. We also propose PeerPL, a new way to perform policy evaluation for RL/BC tasks under weak supervision.
+    Weak supervision signals are everywhere! We provide a unified formulation of the weakly supervised policy learning problems. We also propose PeerPL, a new way to perform policy evaluation under weak supervision.
 </div>
 
 ## Reproduce the Results 

@@ -10,7 +10,7 @@
 
 <div align="center">
     <img src="imgs/weak-policy-learning.png" alt><br>
-    Weak supervision signals are everywhere! We propose a new way to perform policy evaluation under weak supervision.
+    Weak supervision signals are everywhere! We provide a unified formulation of the weakly supervised policy learning problems. We also propose PeerPL, a new way to perform policy evaluation for RL/BC tasks under weak supervision.
 </div>
 
 ## Reproduce the Results 
@@ -19,7 +19,7 @@ TBD
 ## Citation
 If you find our code or paper useful, please consider citing
 ```bibtex
-@inproceedings{wang2021adversarial,
+@inproceedings{wang2021policy,
     title={Policy Learning Using Weak Supervision},
     author={Wang, Jingkang and Guo, Hongyi and Zhu, Zhaowei  and Liu, Yang},
     booktitle={Advances in Neural Information Processing Systems (NeurIPS)},

@@ -36,9 +36,8 @@ python dqn_cartpole.py --error_positive 0.1 --reward peer        # peer reward (
 ```
 
 ## Reproduce the Results
-To reproduce all the results reported in the paper, please refer to `scripts/` folders in `rl-noisy-reward-control` and `rl-noisy-reward-atari`:
-- `gym-control/scripts`
-  - Cartpole
+To reproduce all the results reported in the paper, please refer to `scripts/` folders:
+  - Cartpole-v0
     - `train-dqn.sh` (DQN)
     - `train-duel-dqn.sh` (Dueling-DQN)
     - `train-pattern.sh` (DQN & Dueling-DQN with different dynamic peer penalty schedule)

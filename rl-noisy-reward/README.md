@@ -3,7 +3,7 @@
 The implementation is based on [keras-rl](https://github.com/keras-rl/keras-rl). Thanks to the original authors!
 
 ## Installation
-### Conda (Recommended)
+### Conda (recommended)
 If you are using conda, you can create a `rl-peer` environment with all the dependencies by running:
 
 ```
@@ -12,8 +12,8 @@ cd PeerPL/rl-noisy-reward
 conda env create -f environment.yaml
 conda activate rl-peer
 ```
-###  Manual Installation
-### Dependencies:
+###  Manual Installation (virtualenv + pip)
+#### Dependencies:
 - python 3.5+
 - tensorflow 1.14.0, keras 2.1.0
 - gym, numpy, pandas

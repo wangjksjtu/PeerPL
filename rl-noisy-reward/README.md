@@ -12,7 +12,6 @@ cd PeerPL/rl-noisy-reward
 conda env create -f environment.yaml
 conda activate rl-peer
 ```
-
 ###  Manual Installation
 ### Dependencies:
 - python 3.5+
@@ -36,7 +35,7 @@ python dqn_cartpole.py --error_positive 0.1 --reward peer        # peer reward (
 ```
 
 ## Reproduce the Results
-To reproduce all the results reported in the paper, please refer to `scripts/` folders:
+To reproduce all the results reported in the paper, please refer to `scripts/` folder:
   - Cartpole-v0
     - `train-dqn.sh` (DQN)
     - `train-duel-dqn.sh` (Dueling-DQN)

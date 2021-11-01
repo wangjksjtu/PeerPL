@@ -1,0 +1,14 @@
+name: rl-peer
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy==1.16.5
+  - matplotlib==3.0.3
+  - pandas==0.24.2
+  - pip
+  - pip:
+    - tensorflow-gpu==1.14.0
+    - keras==2.2.4
+    - tabulate==0.8.3
+    - gym==0.17.1

@@ -2,18 +2,27 @@
 
 The implementation is based on [keras-rl](https://github.com/keras-rl/keras-rl). Thanks to the original authors!
 
-## Dependencies
+## Installation
+### Conda (Recommended)
+If you are using conda, you can create a `rl-peer` environment with all the dependencies by running:
+
+```
+git clone https://github.com/wangjksjtu/PeerPL.git
+cd PeerPL/rl-noisy-reward
+conda env create -f environment.yaml
+conda activate rl-peer
+```
+
+###  Manual Installation
+### Dependencies:
 - python 3.5+
-- tensorflow 1.10.0, keras 2.1.0
+- tensorflow 1.14.0, keras 2.1.0
 - gym, numpy, pandas
  
-
 Note: make sure that you have successfully installed the baseline package and other packages following (using [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) to create virtual environment):
 ```
 mkvirtualenv rl-noisy --python==/usr/bin/python3
 pip install -r requirements.txt
-cd gym-atari/baselines
-pip install -e .
 ```
 
 ## Examples

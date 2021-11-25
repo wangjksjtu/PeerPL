@@ -14,7 +14,7 @@
 </div>
 
 ## Reproduce the Results 
-TBD
+Our code is based on popular RL/BC frameworks: [`keras-rl`](https://github.com/keras-rl/keras-rl), [`stable-baselines`](https://github.com/hill-a/stable-baselines) and [`rl-baselines-zoo`](https://github.com/araffin/rl-baselines-zoo). Please refer to README.md at `rl-noisy-reward` and `bc-cotrain` folders to set-up the environments and launch the experiments. 
 
 ## Citation
 If you find our code or paper useful, please consider citing

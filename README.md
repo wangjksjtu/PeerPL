@@ -2,7 +2,10 @@
 
 [[`Paper`](https://arxiv.org/pdf/2010.01748.pdf)]
 [[`arXiv`](https://arxiv.org/abs/2010.01748)]
-[[`Project Page`](http://www.cs.toronto.edu/~wangjk/publications/peerpl.html)]
+[`Poster`]
+[`Video`]
+[`Project Page`]
+<!-- [[`Project Page`](http://www.cs.toronto.edu/~wangjk/publications/peerpl.html)] -->
 
 > [Policy Learning Using Weak Supervision]()  
 > Jingkang Wang, Hongyi Guo, Zhaowei Zhu, Yang Liu \

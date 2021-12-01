@@ -2,7 +2,7 @@
 
 [[`Paper`](https://arxiv.org/pdf/2010.01748.pdf)]
 [[`arXiv`](https://arxiv.org/abs/2010.01748)]
-[`Poster`]
+[[`Poster`](https://github.com/wangjksjtu/PeerPL/blob/main/imgs/neurips_poster.pdf)]
 [`Video`]
 [`Project Page`]
 <!-- [[`Project Page`](http://www.cs.toronto.edu/~wangjk/publications/peerpl.html)] -->

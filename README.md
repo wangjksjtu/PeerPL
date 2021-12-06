@@ -4,8 +4,7 @@
 [[`arXiv`](https://arxiv.org/abs/2010.01748)]
 [[`Poster`](https://github.com/wangjksjtu/PeerPL/blob/main/imgs/neurips_poster.pdf)]
 [[`Slide`](https://neurips.cc/media/neurips-2021/Slides/27948.pdf)]
-[`Project Page`]
-<!-- [[`Project Page`](http://www.cs.toronto.edu/~wangjk/publications/peerpl.html)] -->
+[[`Project Page`](http://www.cs.toronto.edu/~wangjk/publications/peerpl.html)]
 
 > [Policy Learning Using Weak Supervision]()  
 > Jingkang Wang, Hongyi Guo, Zhaowei Zhu, Yang Liu \
